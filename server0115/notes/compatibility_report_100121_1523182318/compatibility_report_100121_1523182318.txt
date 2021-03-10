@@ -1,0 +1,45 @@
+Converting GML script: ${project_dir}\scripts\scr_get_loc\scr_get_loc.gml
+Converted description /// @description scr_get_loc();
+
+Converting GML script: ${project_dir}\scripts\scr_get_loc_http\scr_get_loc_http.gml
+Converted description /// @description scr_get_loc_http(put this in http event);/// @param put this in http event
+
+Converting GML script: ${project_dir}\scripts\scr_get_loc_init\scr_get_loc_init.gml
+Converted description /// @description scr_get_loc_init();
+
+Converting GML script: ${project_dir}\scripts\draw_loc_all\draw_loc_all.gml
+Converted description /// @description draw_loc_all(x,y,space between lines);/// @param x
+/// @param y
+/// @param space between lines
+
+Converting GML script: ${project_dir}\scripts\get_country_code\get_country_code.gml
+Converted description /// @description get_country_code()
+
+Converting GML script: ${project_dir}\scripts\get_country\get_country.gml
+Converted description /// @description get_country()
+
+Converting GML script: ${project_dir}\scripts\get_region\get_region.gml
+Converted description /// @description get_region()
+
+Converting GML script: ${project_dir}\scripts\get_city\get_city.gml
+Converted description /// @description get_city()
+
+Converting GML script: ${project_dir}\scripts\get_isp\get_isp.gml
+Converted description /// @description get_isp()
+
+Converting GML script: ${project_dir}\scripts\get_lat\get_lat.gml
+Converted description /// @description get_lat()
+
+Converting GML script: ${project_dir}\scripts\get_lon\get_lon.gml
+Converted description /// @description get_lon()
+
+Font fnt_arial has been converted to font family Arial (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_arial\fnt_arial.gms1.png
+Converting GML script: ${project_dir}\objects\oGetLoc\Create_0.gml
+Converted description /// @description init
+
+Converting GML script: ${project_dir}\objects\oGetLoc\Other_62.gml
+Converted description /// @description get location via IP (http part);/// @param http part
+
+Converting GML script: ${project_dir}\objects\oGetLoc\Draw_0.gml
+Converted description /// @description draw self, header and debug

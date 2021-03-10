@@ -1,0 +1,10 @@
+event_inherited();
+headLight=instance_create_layer(x,y,"Instances",obj_headLight);
+headLight.light_creator=id;
+headLight.diameter=50;
+speed=0;
+direction=0;
+creator=undefined;
+name="vulcan";
+typ="vulcan";
+size=1;
