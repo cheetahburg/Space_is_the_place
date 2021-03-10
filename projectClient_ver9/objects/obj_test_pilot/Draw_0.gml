@@ -1,1 +1,0 @@
-draw_sprite_ext(spr_racoon,0,x,y,0.64,0.64,image_angle,image_blend,1);
