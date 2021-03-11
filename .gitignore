@@ -4,6 +4,7 @@
 *.gif
 *.pyc
 *.yy
+*.yyp
 *.pdf
 *.idea
 *.xml

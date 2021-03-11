@@ -44,8 +44,8 @@ for(i=0;i<weapon_num;i++){
 	//draw_sprite(spr_weapon,0,viewWidth-410,viewHeight-630+i*200);
 
 }
-draw_text_colour(viewWidth-410,viewHeight-650,"武器",c_white,c_white,c_white,c_white,1);
-draw_text_colour(viewWidth-410,viewHeight-200,"使用滚轮切换武器",c_white,c_white,c_white,c_white,1);
+//draw_text_colour(viewWidth-410,viewHeight-650,"武器",c_white,c_white,c_white,c_white,1);
+draw_text_colour(viewWidth-300,viewHeight-200,"使用鼠标滚轮切换武器",c_white,c_white,c_white,c_white,1);
 
 draw_sprite(spr_littleMap,0,viewWidth-400,viewHeight-1070);
 //draw_sprite(spr_circle_fill,0,130,900);
