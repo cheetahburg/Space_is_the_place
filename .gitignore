@@ -5,3 +5,7 @@
 *.pyc
 *.yy
 *.pdf
+*.idea
+*.xml
+*.iml
+*.class
